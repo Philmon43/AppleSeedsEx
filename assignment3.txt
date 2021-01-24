@@ -1,0 +1,15 @@
+aassignment 3 description
+-------------------------
+
+the program using 2 libararies first library for the splash screen "Hangman" called figlet
+and second library called faker that gets random words.
+
+the program is using while loop for the looping process 
+and two functions first function help build the asterisks
+by length of the random word. and the second function  
+change the letters of the asterisks of the random word based on the users input.
+
+the program will ask to solve the word ten times and will give last chance to try 
+to guess the whole word if user unable to succeed 10 times.
+
+if user succeed it prints congruratulations if not it print the word 

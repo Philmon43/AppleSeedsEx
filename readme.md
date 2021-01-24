@@ -1,0 +1,1 @@
+Apple Seeds pre-course Exercises.
