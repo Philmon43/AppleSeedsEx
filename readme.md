@@ -1,2 +1,2 @@
-#Apple Seeds
+# Apple Seeds
 Apple Seeds pre-course Exercises.
